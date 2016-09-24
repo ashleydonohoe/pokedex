@@ -2,7 +2,7 @@
 //  Pokemon.swift
 //  Pokedex
 //
-//  Created by Gabriele on 9/23/16.
+//  Created by Ashley Donohoe on 9/23/16.
 //  Copyright © 2016 Ashley Donohoe. All rights reserved.
 //
 
